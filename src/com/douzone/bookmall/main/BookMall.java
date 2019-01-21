@@ -15,7 +15,7 @@ public class BookMall {
 		CategoryDao category = new CategoryDao();
 		OrderBookDao ob = new OrderBookDao();
 		OrderInfoDao oi = new OrderInfoDao();
-		UserDao user = new UserDao();
+		UserDao user = new UserDao(); 
 		
 		
 		//	생성		
